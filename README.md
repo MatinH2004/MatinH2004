@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MatinH2004, I'm 17, and I am a grade 12 high school student.
-- 👀 I’m interested in web development, and mobile application development.
+- 👋 Hi, I’m @MatinH2004, I'm 17, and I am currently learning how to code.
+- 👀 I’m interested in web development, and mobile application development, and cloud computing.
 - 🌱 I’m currently learning Javascript and Python.
 - 📫 How to reach me: IG @martin04h
 
