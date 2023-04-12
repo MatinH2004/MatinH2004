@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MatinH2004, I'm 18, and I am currently learning how to code
-- 👀 I’m interested in full-stack development, and cloud computing
-- 📚 I’m currently learning Ruby at Launch School
+- 👋 Hi, I’m @MatinH2004, I'm 18, and I am currently learning how to code </>
+- 👀 I’m interested in full-stack development, and cloud computing 💻
+- 📚 I’m currently learning Ruby at Launch School 💎
 - 📫 Reach me on IG: @martin04h ✨
 
 <!---
