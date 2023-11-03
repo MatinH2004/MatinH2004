@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Fun fact **I can do a backflip**
+- ⚡ Currently working on a **Todo List** project using Ruby and Sinatra...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
