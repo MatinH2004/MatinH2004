@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matinh2004&label=Profile%20views&color=0e75b6&style=flat" alt="matinh2004" /> </p>
 
-- 🌱 I’m currently learning **Ruby at Launch School**
+- 🌱 I’m currently learning **Ruby & JS at Launch School**
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Currently working on a **Todo List** project using Ruby and Sinatra...
+- ⚡ Currently working on a **File-based CMS** project using Ruby and Sinatra...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
