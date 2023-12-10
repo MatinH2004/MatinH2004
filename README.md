@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Currently working on a **File-based CMS** project using Ruby and Sinatra...
+- ⚡ Currently working on an **Expense Tracker App** project using Ruby and Sinatra...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
