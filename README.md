@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matinh2004&label=Profile%20views&color=0e75b6&style=flat" alt="matinh2004" /> </p>
 
-- 🌱 I’m currently learning **Ruby & JS at Launch School**
+- 🌱 I’m learning **Ruby & JS at Launch School**
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
