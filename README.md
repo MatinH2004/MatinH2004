@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/MatinH2004)
 <h1 align="center">Hi 👋, I'm Matin Hassan Pour</h1>
 <h3 align="center">A passionate back-end developer from Canada</h3>
-<img align="right" alt="Coding" width=500 src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw0gZU0P4ZNh50tfY7qT_4g4&ust=1705469702637000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDyy_GX4YMDFQAAAAAdAAAAABAc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matinh2004&label=Profile%20views&color=0e75b6&style=flat" alt="matinh2004" /> </p>
 
