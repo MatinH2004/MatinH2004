@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/MatinH2004)
 <h1 align="center">Hi 👋, I'm Matin Hassan Pour</h1>
-<h3 align="center">A passionate back-end developer from Canada</h3>
+<h3 align="center">A passionate developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matinh2004&label=Profile%20views&color=0e75b6&style=flat" alt="matinh2004" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Currently working on an **Expense Tracker App** project using Ruby and Sinatra...
+- ⚡ Currently working on an **Computational Thinking & Problem Solving** with Javascript...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
