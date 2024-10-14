@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Currently working on an **Computational Thinking & Problem Solving** with Javascript...
+- ⚡ Currently learning the **DOM & Asynchronous JavaScript**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
