@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matinh2004&label=Profile%20views&color=0e75b6&style=flat" alt="matinh2004" /> </p>
 
-- 🌱 I’m learning **Ruby & JS at Launch School**
+- 🌱 I’m mastering **Ruby, SQL, JavaScript, and TypeScript at Launch School**
 
 - 📫 How to reach me **matinhp04@gmail.com**
 
-- ⚡ Currently learning the **DOM & Asynchronous JavaScript**...
+- ⚡ Currently learning the **Data Structures & Algorithms**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
