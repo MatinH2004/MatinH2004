@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Matin:
-🛠 I'm currently working on my Full-Stack Web Development Agency<br>👨🏽‍💻 I'm looking to collaborate on my side project, GeoHunt<br>🎓 Launch School Core Grad<br>📍 Located in Vancouver, BC
+🛠 I'm currently working on my Full-Stack Web Development Agency, my RouteView project, and learning AI Automation<br>👨🏽‍💻 I'm looking to collaborate on my side project, RouteView<br>🎓 Launch School Core Grad<br>📍 Located in Vancouver, BC
 
 
 ## 🌐 Socials:
